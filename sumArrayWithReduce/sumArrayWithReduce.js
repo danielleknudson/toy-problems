@@ -1,0 +1,1 @@
+// Create a sum function that uses the Array.prototype.reduce() method to find and return the sum of the values in an array
